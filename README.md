@@ -4,15 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hobbies: Ler, Artes Marciais, Séries, Tiro Esportivo
-- 🌱 Formação: Sou formado em Teologia e atualmente estou em formação no Programa Full Stack Web Developer na  <a href="https://www.growdev.com.br">Growdev</a>
-- 👯 Experiências Profissionais: Já trabalhei na área de segurança privada durante 6 anos. Atualmente trabalho como pastor sênior da <a href="https://www.pibicanoas.com.br">Primeira Igreja Batista Independente de Canoas</a>
-- 🤔 Tecnologias Favoritas: HTML, CSS e Javascript
+- 🔭 Hobbies: Ler, Artes Marciais, Séries, Tiro Esportivo.
+- 👨‍🎓 Formação: Sou formado em Teologia e atualmente estou em formação no Programa Full Stack Web Developer na  <a href="https://www.growdev.com.br">Growdev</a>
+- 👯 Experiências Profissionais: Já trabalhei na área de segurança privada durante 6 anos. Atualmente trabalho como pastor sênior da <a href="https://www.pibicanoas.com.br">Primeira Igreja Batista Independente de Canoas</a> atuando na resolução de conflitos, aconselhamento, administração, produção e edição de conteúdos para a instituição.
+- 🤔 Tecnologias Favoritas: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40"/>
 - 💬 O que Está Estudando Atualmente: Desenvolvimento de Aplicações Web
 - 📫 Como me encontrar: <a href="https://www.linkedin.com/in/flavio-de-paula-oliveira-17258722a/">LinkedIn</a> e <a href="mailto:dev.flavio84@gmail.com"> E-mail</a>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
  
   <div align="center">
