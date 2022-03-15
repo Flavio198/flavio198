@@ -2,7 +2,7 @@
 <p>Meu nome é <strong>Flávio Oliveira</strong><p>
 
 
-Here are some ideas to get you started:
+Aqui estão algumas coisas sobre mim:
 
 - 🔭 Hobbies: Ler, Artes Marciais, Séries, Tiro Esportivo.
 - 👨‍🎓 Formação: Sou formado em Teologia e atualmente estou em formação no Programa Full Stack Web Developer na  <a href="https://www.growdev.com.br">Growdev</a>
