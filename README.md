@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <a href = "mailto:dev.flavio84@gmail.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/flavio-de-paula-oliveira-17258722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/montoyaaa/montoyaaa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/flavio198/flavio198/blob/output/github-contribution-grid-snake.svg)
 </div>
